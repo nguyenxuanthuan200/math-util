@@ -7,7 +7,7 @@
 * MathUtility class to offer various Math finctions
 
 #### Have fun with my code and feel free to give me any comments
-Format: ![Alt sorry](https://avatars.githubusercontent.com/u/80751553?s=400&v=4)
+
 #### Connect me via:
 [Facebook](https://www.facebook.com/xuanthuan.1711/)  
 [Email](nguyenxuanthuan200@gmail.com)
